@@ -6,7 +6,7 @@ export default function Home() {
         <main>
             <div>
                 <h1>Welcome to the Master League</h1>
-                <img src={mainLogo} responsive alt="team ash" />
+                <img src={mainLogo} alt="team ash" />
             </div>
         </main>
     );
